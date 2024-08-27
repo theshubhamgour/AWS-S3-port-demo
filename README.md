@@ -13,17 +13,14 @@ Before you begin, ensure you have:
 ## Repository Contents
 
 - `index.html`: A simple HTML file to be served as the main page of the website.
-- `404.html`: A basic 404 error page.
+- `error.html`: A basic 404 error page.
 - `README.md`: This file with instructions and details about the setup.
 
-## Getting Started
 
-Follow these steps to set up and deploy a static website using this repository:
+### Instructions:
 
-### 1. Clone the Repository
+1. Save the above content as `README.md` in your repository.
+2. Create the `error.html` file as provided.
+3. Ensure you update any placeholder values (e.g., `your-bucket-name`, `yourusername`) with your actual information.
 
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/s3-static-website-demo.git
-cd s3-static-website-demo
+Let me know if you need any more modifications or additional help!
